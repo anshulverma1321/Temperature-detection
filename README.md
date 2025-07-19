@@ -77,32 +77,18 @@ pip install numpy pandas matplotlib scikit-learn tensorflow joblib
 
 📬 Usage
 1. Preprocess the Data:
-bash
-Copy
-Edit
 python data_preprocessing.py
 2. Train the Model:
-bash
-Copy
-Edit
 python model_train.py
 
 
 👤 Author
 
-Anas Fareedi 
 Anshul verma
+Anas Fareedi 
 
 B.Tech (AI/ML) Student
 College of Engineering Roorkee (COER)
 
 📜 License
 This project is open source and free to use under the MIT License.
-
-yaml
-
-Copy
-
-Edit
-
----
